@@ -1,0 +1,7 @@
+title: Your Name
+description: Data Engineering • Analytics • Agentic AI
+theme: jekyll-theme-cayman
+
+# Optional (nice defaults)
+show_downloads: false
+markdown: kramdown
