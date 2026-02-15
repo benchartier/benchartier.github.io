@@ -81,6 +81,6 @@ I approach projects with a systems-thinking mindset — prioritizing clarity, re
 → View Full Profile
 → Download Resume
 
-[GitHub](https://benchartier.github.io/) | [LinkedIn](https://www.linkedin.com/in/benjamin-chartier-03975624/) | [ben.chartier@gmail.com](mailto:ben.chartier@gmail.com)
+[GitHub](https://benchartier.github.io/) | [LinkedIn](https://www.linkedin.com/in/benjamin-chartier-03975624/) 
 
 © 2026 [Benjamin Chartier]
