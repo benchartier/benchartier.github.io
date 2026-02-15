@@ -1,3 +1,7 @@
+---
+layout: default
+title: Home
+---
 Benjamin Chartier
 
 Data Engineer | Analytics Systems Designer | Agentic AI Builder
